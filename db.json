@@ -1,4 +1,5 @@
 {
+  "Map":[
   {
       "nameMap": "Probaaaaaa",
         "numPref": [
@@ -32,4 +33,5 @@
         "countDeth": 0,
         "timer": 0
     }
+]
 }
