@@ -1,5 +1,7 @@
 {
-  "nameMap": "Probaaaaaa",
+  "Maps": [
+    {
+      "nameMap": "Probaaaaaa",
         "numPref": [
             0,
             1
@@ -30,5 +32,9 @@
         "isCreate": false,
         "countDeth": 0,
         "timer": 0
-  ]
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
