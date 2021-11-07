@@ -1,3 +1,31 @@
-[
- {"nameMap":"Proba","numPref":[0,1],"pos":[{"x":-3.0,"y":-3.5,"z":1.0},{"x":-0.5,"y":-2.5,"z":1.0}],"scal":[{"x":8.0,"y":1.0},{"x":1.0,"y":1.0}],"numColorScen":0,"isCreate":false,"countDeth":0,"timer":0}
-]
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
