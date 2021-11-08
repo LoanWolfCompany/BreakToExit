@@ -21,13 +21,15 @@
       "numColorScen": 0,
       "isCreate": false,
       "countDeth": 0,
-      "timer": 0
+      "timer": 0,
+      "id": 0
     }
 ],
   "Player":[
     {
      "PlayerName": "PlayerName",
-      "Password": "Password"
+      "Password": "Password",
+      "id": 0
     }
     ]
 }
