@@ -2,9 +2,11 @@
   "Map":[
   {
       "nameMap": "Name Map",
-        "numPref": [
+       "numPref": [
+         {
             0,
             1
+         }
         ],
         "pos": [
             {
