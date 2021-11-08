@@ -23,5 +23,11 @@
       "countDeth": 0,
       "timer": 0
     }
-]
+],
+  "Player":[
+    {
+     "PlayerName": "PlayerName",
+      "Password": "Password"
+    }
+    ]
 }
