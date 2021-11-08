@@ -25,7 +25,7 @@
         "timer": 0
     }
 ]
-  "Player"[
+  "Player":[
   {
   "NamePlayer": "name",
   "Password": "password"
