@@ -1,32 +1,23 @@
 {
   "Map":[
   {
-      "nameMap": "Probaaaaaa",
+      "nameMap": "Name Map",
         "numPref": [
             0,
             1
         ],
         "pos": [
             {
-                "x": -3.0,
-                "y": -3.5,
-                "z": 1.0
+                "x": 0,
+                "y": 0,
+                "z": 0
             },
-            {
-                "x": -0.5,
-                "y": -2.5,
-                "z": 1.0
-            }
         ],
         "scal": [
             {
-                "x": 8.0,
-                "y": 1.0
+                "x": 0,
+                "y": 0
             },
-            {
-                "x": 1.0,
-                "y": 1.0
-            }
         ],
         "numColorScen": 0,
         "isCreate": false,
@@ -34,4 +25,10 @@
         "timer": 0
     }
 ]
+  "Player"[
+  {
+  "NamePlayer": "name",
+  "Password": "password"
+}
+  ]
 }
